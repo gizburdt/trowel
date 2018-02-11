@@ -1,0 +1,21 @@
+# Crap
+.DS_Store
+.log
+/*.zip
+/*.tar.gz
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+*.idea
+.idea
+.idea/*
+
+# Composer
+vendor/
+
+# Node
+node_modules
+
+# Mix
+mix-manifest.json

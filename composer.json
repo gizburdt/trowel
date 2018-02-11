@@ -1,0 +1,16 @@
+{
+    "name": "gizburdt/trowel",
+    "type": "wordpress-theme",
+    "description": "Very lean starter theme.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gijs Jorissen",
+            "email": "lol@gizburdt.com",
+            "homepage": "http://gizburdt.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
