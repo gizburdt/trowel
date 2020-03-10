@@ -6,6 +6,6 @@ mix
     publicPath: 'public/'
 })
 
-.js('resources/assets/js/app.js', 'js/')
+.js('resources/js/app.js', 'js/')
 
-.sass('resources/assets/scss/app.scss', 'css/');
+.sass('resources/scss/app.scss', 'css/');
